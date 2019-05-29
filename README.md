@@ -16,3 +16,6 @@ To run high-level synthesis and generate the performance and utilization report 
 
 Makefiles typically includes the targets `report` and `run_test`.
 
+
+### Pratice
+* example 0 --> it's well work! | 2019.05.29

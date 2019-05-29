@@ -7,3 +7,7 @@ hls
 *.aocx
 *.temp
 *.aocr
+
+xsim.dir/
+xvlog.log
+xvlog.pb
